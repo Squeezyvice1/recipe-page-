@@ -20,3 +20,5 @@
   <li>chop the kovo and add it to the livers whe they are almost ready </li>
   <li> dish up the pasta and than the livres on top</li></ol></body>
   <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg"alt="some good cooking">
+    </body>
+    </html>
